@@ -14,6 +14,9 @@
 | [pay-for-service](./skills/pay-for-service/SKILL.md)         | Make paid API requests via x402                                |
 | [monetize-service](./skills/monetize-service/SKILL.md)       | Build and deploy a paid API that other agents can use via x402 |
 | [query-onchain-data](./skills/query-onchain-data/SKILL.md)   | Query onchain data on Base using the CDP SQL API via x402      |
+| [robinhood-agentic-trading](./skills/robinhood-agentic-trading/SKILL.md) | Plan Agent OS-governed Robinhood trading reviews without live order authority |
+| [robinhood-agentic-card](./skills/robinhood-agentic-card/SKILL.md) | Plan Agent OS-governed Robinhood card readiness without card-detail or purchase authority |
+| [independent-financial-research](./skills/independent-financial-research/SKILL.md) | Produce cited finance research artifacts with non-executable candidate actions |
 
 ## Installation
 
