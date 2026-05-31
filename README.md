@@ -18,6 +18,10 @@
 | [robinhood-agentic-card](./skills/robinhood-agentic-card/SKILL.md) | Plan Agent OS-governed Robinhood card readiness without card-detail or purchase authority |
 | [independent-financial-research](./skills/independent-financial-research/SKILL.md) | Produce cited finance research artifacts with non-executable candidate actions |
 
+## Agent OS finance planning skills
+
+The Robinhood and independent-financial-research skills are planning/control-plane guidance only. They set `allowed-tools: []` and do not grant live trading, order cancellation, card-detail fetch, purchases, provider calls, wallet movement, x402 payment, or options authority.
+
 ## Installation
 
 Install with [Vercel's Skills CLI](https:/skills.sh):
